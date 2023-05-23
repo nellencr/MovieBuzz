@@ -1,1 +1,1 @@
-# ssh_prac
+# MovieBuzz
